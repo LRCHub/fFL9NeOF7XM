@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "杏仁dope",
+  "base_artist": "なみぐる",
+  "createdAt": "2026-02-07T09:55:26.512064Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "杏仁dope",
+      "artist": "なみぐる",
+      "has_synced": false,
+      "path": "select/pl_01_杏仁dope_なみぐる.txt"
+    }
+  ]
+}
